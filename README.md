@@ -1,3 +1,5 @@
+Goto https://colab.research.google.com/
+
 !pip install --upgrade fastapi==0.90.1
 !git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui
 !git clone https://github.com/yfszzx/stable-diffusion-webui-images-browser /content/stable-diffusion-webui/extensions/stable-diffusion-webui-images-browser
